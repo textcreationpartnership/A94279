@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the Commissioners of Scotland, to his Excellency the Lord General Monck, in the behalf of themselves and the whole nation. From Edenburgh the third day of March, 1660.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94279</idno>
+            <idno type="STC">Wing S999B</idno>
+            <idno type="STC">Thomason E1017_5</idno>
+            <idno type="STC">ESTC R207937</idno>
+            <idno type="EEBO-CITATION">99866952</idno>
+            <idno type="PROQUEST">99866952</idno>
+            <idno type="VID">119241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119241)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the Commissioners of Scotland, to his Excellency the Lord General Monck, in the behalf of themselves and the whole nation. From Edenburgh the third day of March, 1660.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Daniel VVhite, at the Seven Stars in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Signed by the Commissioners at Edenburgh the 3. day of March. 1660.</note>
+                  <note>Annotation on Thomason copy: "March. 13 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119241:1"/>
+            <pb facs="tcp:119241:1" rendition="simple:additions"/>
+            <p>A LETTER ſent from the Commiſſioners of SCOTLAND, To his Excellency the Lord General MONCK, In the Behalf of themſelves and the whole <hi>NATION.</hi>
+            </p>
+            <p>From <hi>Edenburgh</hi> the third Day of <hi>March,</hi> 1660.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Daniel VVhite,</hi> at the <hi>Seven Stars in</hi> St. <hi>Paul</hi>'s Church-yard, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119241:2"/>
+            <pb n="3" facs="tcp:119241:2"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E look upon it as no ſmall mer<g ref="char:EOLhyphen"/>cy from the Lord our God, that while the late dreadfull confu<g ref="char:EOLhyphen"/>ſions, ſpeaking forth his ſad diſ<g ref="char:EOLhyphen"/>pleaſure againſt us, did threaten to daſh theſe Nations in pieces; it hath pleaſed him ſo ſpeedily to chear up our hearts and drooping ſpirits by your Lordſhips ſo ſeaſonably appearing as our healer and repai<g ref="char:EOLhyphen"/>rer of theſe Breaches; As we do with all thankfulneſſe remember your Lordſhips con<g ref="char:EOLhyphen"/>ſtant &amp; continued kindneſſe to this ſcrieking Na<g ref="char:EOLhyphen"/>tion, and doe particularly acknowledge the goodneſſe of the Lord in employing you as an Inſtrument in his hand for diſperſing of that black cloud which of late was gathering in theſe Na<g ref="char:EOLhyphen"/>tions, and threatned to ſwallow all that was
+<pb n="4" facs="tcp:119241:3"/>dear and precious to us; So it doth ſingu<g ref="char:EOLhyphen"/>larly indear your Lordſhip to our hearts, that ſince your being at <hi>London,</hi> you have ſo a<g ref="char:EOLhyphen"/>ctively and eminently appeared for the ſatisfying the general languiſhes and deſires of all the lovers of truth and righteouſneſſe, who thirſt after a ſet<g ref="char:EOLunhyphen"/>tlement of theſe diſtracted Nations, upon a ſure foundation of Religion and Righteouſneſſe, and to all ſome comfortable Iſſue of thoſe many Re<g ref="char:EOLhyphen"/>volutions which have expoſed theſe Nations to be matter of Rejoycing to their Enemies, and of grief and ſorrow to their Friends. We do heartily bleſſe the Lord on your &amp; the Nations behalf, who hath put ſuch a Reſolution in your heart for their good, and hath led you firſt in acting thereof in ſo prudential and (through Gods bleſſing) ſo pro<g ref="char:EOLhyphen"/>miſing away, and do earneſtly beſeech that your hands may be more and more ſtrengthened in God to proſecute that good work, which you have begun, by endeavouring effectually in your Nation, that the grievances and com<g ref="char:EOLhyphen"/>plaints of theſe Nations, may be re<g ref="char:EOLhyphen"/>deemed by ſuch lawfull means and wayes as may be ſatisfactory to all ſober minded, the true Proteſtant Religion, and the Ordinan<g ref="char:EOLhyphen"/>ces of Chriſt may be countenanced and flou<g ref="char:EOLhyphen"/>riſh; and the Government of theſe Nations
+<pb n="5" facs="tcp:119241:3"/>may be ſettled on righteous and ſure founda<g ref="char:EOLhyphen"/>tions as it ſhall not be in the power of particu<g ref="char:EOLhyphen"/>lar Perſons and Parties (as of late) to intrude thereupon, to advance themſelves and ſerve their own ambitious deſigns and luſts, whileſt the Nations lye bleeding under their feet. Here<g ref="char:EOLhyphen"/>by you ſhall not only do ſervice eminently acce<g ref="char:EOLhyphen"/>ptable to God, but ſhall purchaſe to your Lordſhip a name &amp; praiſe, whereof the like op<g ref="char:EOLhyphen"/>portunity will not readily occur in any age, the preſent Generation (whoſe bleeding and gaſping condition doth, we muſt ſay very much lye at your mercy, ſhall ariſe and call you bleſſed: Nations abroad ſhall honour you, as one amongſt a thouſand who hath put forth the power in your hands for promoting and ſettling of the publick intereſt and ſafety, whileſt others having the like opportunity did inſlave all publick concernments, to carry on their own ſelfiſh Deſignes, and following gene<g ref="char:EOLhyphen"/>rations ſhall record your memory as precious, And for our ſelves and the reſt of this nation (whoſe ſenſe we ſufficiently know by our laſt meeting) as it hath been our endeavour ſo to demean ourſelves as might give your Lordſhip ſatisfaction, ſo in your proſecution of this juſt and honourable enterprize (whereof we are
+<pb n="6" facs="tcp:119241:4"/>confident of your continued tenderneſſe, cou<g ref="char:EOLhyphen"/>rage and zeal) we have not onely reſolved to live peaceably and quietly, But are ready to put forth our ſelves to our utmoſt to ſerve you; And albeit, we were nominated by the late meeting of the Commiſſioners of this Na<g ref="char:EOLhyphen"/>tion to come and wait upon your Lordſhip; yet being for the preſent doubtfull of the expedi<g ref="char:EOLhyphen"/>ency of our going at this time, we could not in the mean time forbear to caſt in this our mite, and to teſtify our ſenſe and acknowledgement of the late great mercy ſhewed unto theſe Nations by your means, and how great an addition is here<g ref="char:EOLhyphen"/>by made to our many Obligations to approve our ſelves</p>
+            <closer>
+               <signed>Your Excellencies most humble Servant.</signed>
+               <dateline>Signed by the Commiſſioners at <hi>Edenburgh</hi> 
+                  <date>the 3. day of <hi>March,</hi> 1660.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119241:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
